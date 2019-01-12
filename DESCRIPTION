@@ -1,0 +1,18 @@
+Package: RLmapper
+Type: Package
+Title: Visualization of landscape of state space structure and value function in reinforcement learning
+Version: 0.1.0
+Author: Yuki Nakamura
+Maintainer: Yuki Nakamura <nakamura@fz.iit.tsukuba.ac.jp>
+Description: Visualization of landscape of state space structure and value function in reinforcement learning.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    magrittr,
+    igraph,
+    purrr,
+    setter,
+    grDevices,
+    graphics
+RoxygenNote: 6.1.1
