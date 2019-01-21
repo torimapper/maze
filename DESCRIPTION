@@ -1,4 +1,4 @@
-Package: RLmapper
+Package: RLmapperr
 Type: Package
 Title: Visualization of landscape of state space structure and value function in reinforcement learning
 Version: 0.1.0
